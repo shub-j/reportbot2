@@ -1,0 +1,23 @@
+{
+  "name": "report-bot",
+  "version": "1.0.0",
+  "description": "A report bot linked to Trello made by GettuseBook TM of ESI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "GettuseBook",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "noblox.js": "^4.5.3",
+    "node-fetch": "^2.6.1",
+    "sequelize": "^5.21.6",
+    "sqlite3": "^4.1.1",
+    "trello": "^0.10.0"
+  }
+}
